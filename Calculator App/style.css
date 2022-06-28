@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;800&family=PT+Serif&family=Poppins:wght@200&family=Roboto:wght@100;300;400;500;700;900&family=Sen:wght@400;700;800&family=Work+Sans:ital,wght@1,200&display=swap");
+
+body {
+  margin: 0;
+  padding: 50px 0px;
+  background-image: url("plain-dark-blue-product-background.jpg");
+}
+.clear {
+  background: green;
+  color: #fff;
+}
+table {
+  background: black;
+  padding: 7px 5px;
+  border: 6px solid black;
+  text-align: center;
+  padding-bottom: 0px;
+  box-shadow: 0px 0px 27px #77f90c;
+  border-radius: 10px;
+  margin-top: 90px;
+}
+.equal {
+  width: 88%;
+  background: #46fc09;
+  color: rgb(23, 18, 18);
+}
+.equal:hover {
+  background: #000803;
+  color: rgb(0, 161, 3);
+}
+
+input[type="text"] {
+  width: 450px;
+  height: 81px;
+  border: 1px solid #000;
+  padding: 10px 20px;
+  font-size: 29px;
+  background: black;
+  margin-bottom: 25px;
+  font-weight: bold;
+  font-family: cursive;
+  margin-top: #dedede;
+  border-bottom: 2px solid green;
+  color: #ffffff;
+}
+
+button {
+  padding: 10px 20px;
+  width: 100px;
+  height: 70px;
+  margin-bottom: 20px;
+  font-size: 36px;
+  font-family: "PT Serif", serif;
+  background: #000803;
+  border: none;
+  color: rgb(0, 161, 3);
+  border-radius: 6px;
+  cursor: pointer;
+  border: 2px solid #012706;
+}
+button:hover {
+  background: #02341e;
+}
